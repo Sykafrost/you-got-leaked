@@ -1,4 +1,4 @@
--- Leaked by Y4ru at https://github.com/Sykafrost/you-got-leaked/shadowscripts
+-- Leaked by Y4ru at  https://github.com/Sykafrost/you-got-leaked/tree/main/shadowscripts
 -- Using shitty ass vault ?
 -- Script "dev": https://rscripts.net/@shadowscripts
 -- ULTRA SCRIPT HUB - Made by Junejo
